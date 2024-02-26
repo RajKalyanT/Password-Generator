@@ -1,3 +1,13 @@
-<h1>Description </h1>
-<p>Password Generator using Python GUI 🧮
-<p>The Password Generator is a simple GUI application built using Tkinter in Python. It allows users to generate strong and secure passwords with varying degrees of complexity.</p>
+# Password-Generator
+
+
+## Introduction
+
+This Python script generates strong and secure passwords to enhance the protection of your online accounts.
+
+## Features
+
+- Generates strong and random passwords.
+- Customizable password length.
+- Option to include or exclude numbers, special characters, and uppercase letters.
+- Easy-to-use command-line interface.
