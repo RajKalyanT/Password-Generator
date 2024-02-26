@@ -11,3 +11,6 @@ This Python script generates strong and secure passwords to enhance the protecti
 - Customizable password length.
 - Option to include or exclude numbers, special characters, and uppercase letters.
 - Easy-to-use command-line interface.
+<li><u>Screenshot</u>
+  <ul><img src="preview/pass_gen.png"></ul>
+</li>
